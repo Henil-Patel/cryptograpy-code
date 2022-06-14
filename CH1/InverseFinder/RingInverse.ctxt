@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RingInverse
+comment0.text=\n\ This\ will\ attempt\ to\ find\ an\ inverse\ of\ rings\ \n\ Z_11,\ Z_12,\ Z_13\n
+comment1.params=z
+comment1.target=int[]\ fillRing(int[])
+comment2.params=ring
+comment2.target=java.util.ArrayList\ findInverse(int[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
